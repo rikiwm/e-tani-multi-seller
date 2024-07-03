@@ -2,7 +2,7 @@
 <h2> AGRICULTURE SOLOK DISTRICT </h2>
 
 <h3> TECH </h3>
-- 💻 &nbsp; PHP | JavaScript | MySql | HTML | CSS | AJAX  
+- 💻 &nbsp; PHP 
 
 
 <h3> Connect with Me </h3>
